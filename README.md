@@ -25,7 +25,10 @@ Muad</a></h1>
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apachekafka&logoColor=white)\
 ![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-05122A?style=flat)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=F2C811)&nbsp;
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-05122A?style=flat&logo=microsoftexcel&logoColor=217346)&nbsp;
+
 
 
 
