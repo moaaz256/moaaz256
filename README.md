@@ -16,9 +16,8 @@ Muad</a></h1>
 ### 🛠 &nbsp;Skills
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoftsqlserver&logoColor=CC2927)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
 ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat&logo=apachespark&logoColor=E25A1C)&nbsp;
 ![PySpark](https://img.shields.io/badge/-PySpark-05122A?style=flat&logo=apachespark&logoColor=E25A1C)\
 ![Databricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=databricks&logoColor=FF3621)&nbsp;
